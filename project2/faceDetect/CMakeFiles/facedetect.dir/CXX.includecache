@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zack/Dropbox/cs410cv/project2/faceDetect/facedetect.cpp
+opencv2/objdetect/objdetect.hpp
+/home/zack/Dropbox/cs410cv/project2/faceDetect/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/zack/Dropbox/cs410cv/project2/faceDetect/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/zack/Dropbox/cs410cv/project2/faceDetect/opencv2/imgproc/imgproc.hpp
+iostream
+-
+stdio.h
+-
+

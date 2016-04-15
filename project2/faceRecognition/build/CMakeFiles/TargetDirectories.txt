@@ -1,0 +1,6 @@
+/home/zack/Github/libfacerec/build/CMakeFiles/facerec_demo.dir
+/home/zack/Github/libfacerec/build/CMakeFiles/facerec_eigenfaces.dir
+/home/zack/Github/libfacerec/build/CMakeFiles/facerec_fisherfaces.dir
+/home/zack/Github/libfacerec/build/CMakeFiles/facerec_lbph.dir
+/home/zack/Github/libfacerec/build/CMakeFiles/facerec_video.dir
+/home/zack/Github/libfacerec/build/CMakeFiles/opencv_facerec.dir
